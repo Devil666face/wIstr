@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>HackBook.qss</file>
+        <file>icons/coor.gif</file>
+        <file>icons/equip.gif</file>
+        <file>icons/settings.gif</file>
+        <file>icons/add.gif</file>
+        <file>icons/remove.gif</file>
+        <file>icons/database.gif</file>
+        <file>icons/edit.gif</file>
+        <file>build/images/plane_32.png</file>
+        <file>build/images/plane_48.png</file>
+        <file>build/images/plane_64.png</file>
+        <file>build/images/plane_72.png</file>
+        <file>build/images/plane_96.png</file>
+        <file>build/images/plane_128.png</file>
+        <file>build/images/plane_256.png</file>
+        <file>build/images/plane_512.png</file>
+        <file>build/images/airbase_32.png</file>
+        <file>build/images/airbase_48.png</file>
+        <file>build/images/airbase_64.png</file>
+        <file>build/images/airbase_72.png</file>
+        <file>build/images/airbase_96.png</file>
+        <file>build/images/airbase_128.png</file>
+        <file>build/images/airbase_256.png</file>
+        <file>build/images/airbase_512.png</file>
+        <file>icons/line.gif</file>
+        <file>build/images/cross_32.png</file>
+        <file>build/images/cross_48.png</file>
+        <file>build/images/cross_64.png</file>
+        <file>build/images/cross_72.png</file>
+        <file>build/images/cross_96.png</file>
+        <file>build/images/cross_128.png</file>
+        <file>build/images/cross_256.png</file>
+        <file>build/images/cross_512.png</file>
+        <file>icons/result.gif</file>
+    </qresource>
+</RCC>
